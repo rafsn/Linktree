@@ -10,6 +10,10 @@ body {
     font-family: Verdana, Tahoma, sans-serif;
 }
 
+.profile {
+    color: gray;
+}
+
 header {
     width: 95%;
     max-width: 788px;
